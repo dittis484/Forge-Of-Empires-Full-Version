@@ -241,3 +241,6 @@ This repository serves as the official landing page for Forge of Empires. The so
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Forge of Empires today!**
+
+---
+**Last updated:** 2026-09-08 21:42:31 UTC
