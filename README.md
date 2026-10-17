@@ -243,4 +243,4 @@ This repository serves as the official landing page for Forge of Empires. The so
 **Get the most recent version of Forge of Empires today!**
 
 ---
-**Last updated:** 2026-10-16 23:21:27 UTC
+**Last updated:** 2026-10-17 03:45:29 UTC
